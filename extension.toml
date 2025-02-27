@@ -1,5 +1,5 @@
-id = "ezio"
-name = "Ezio"
+id = "ezio-theme"
+name = "Ezio Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Derek Santolo github.com/dsantolo"]
