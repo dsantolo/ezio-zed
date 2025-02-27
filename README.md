@@ -2,7 +2,7 @@
 
 The Ezio theme for Zed.
 
-![Zed with Ezio theme enabled](images/example.png)
+![Zed with Ezio theme enabled](images/example.jpg)
 
 Currently, the theme assumes you have the following Zed settings:
 
