@@ -2,6 +2,8 @@
 
 The Ezio theme for Zed.
 
+![Zed with Ezio theme enabled](images/example.png)
+
 Currently, the theme assumes you have the following Zed settings:
 
 ```
