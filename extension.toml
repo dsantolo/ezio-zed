@@ -2,6 +2,6 @@ id = "ezio-theme"
 name = "Ezio Theme"
 version = "0.0.1"
 schema_version = 1
-authors = ["Derek Santolo github.com/dsantolo"]
+authors = ["Derek Santolo"]
 description = "The Ezio theme for Zed."
 repository = "https://github.com/dsantolo/ezio-zed"
