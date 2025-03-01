@@ -11,7 +11,7 @@ jobs:
       - uses: huacnlee/zed-extension-action@v1
         with:
           extension-name: ezio-theme
-          extension-path: extensions/ezio
+          # extension-path: extensions/ezio-theme
           push-to: dsantolo/zed-extensions
         env:
           # the personal access token should have "repo" & "workflow" scopes
