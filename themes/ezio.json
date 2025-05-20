@@ -48,8 +48,8 @@
         "panel.focused_border": "#7f1d1d",
         "pane.focused_border": null,
         "scrollbar.thumb.background": "#434C5E",
-        "scrollbar.thumb.hover_background": "#bcbcbc",
-        "scrollbar.thumb.border": "#bcbcbc",
+        "scrollbar.thumb.hover_background": "#0a0a0a",
+        "scrollbar.thumb.border": "#0a0a0a",
         "scrollbar.track.background": "#8a8f9935",
         "scrollbar.track.border": "#7f7f7f4d",
         "editor.foreground": "#0a0a0a",
@@ -88,7 +88,7 @@
         "terminal.ansi.bright_magenta": "#a8a8a8",
         "terminal.ansi.dim_magenta": null,
         "terminal.ansi.cyan": "#8a8a8a",
-        "terminal.ansi.bright_cyan": "#bcbcbc",
+        "terminal.ansi.bright_cyan": "#0a0a0a",
         "terminal.ansi.dim_cyan": null,
         "terminal.ansi.white": "#b2b2b2",
         "terminal.ansi.bright_white": "#f7f7f7",
@@ -215,7 +215,7 @@
             "font_weight": null
           },
           "punctuation.list_marker": {
-            "color": "#bcbcbc",
+            "color": "#0a0a0a",
             "font_style": null,
             "font_weight": null
           },
