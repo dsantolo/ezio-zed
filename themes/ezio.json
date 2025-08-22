@@ -108,7 +108,7 @@
         "error": "#7f1d1d",
         "error.background": "#7f1d1d50",
         "error.border": "#7f1d1d",
-        "hidden": "#8a8a8a",
+        "hidden": "#0a0a0a",
         "hidden.background": null,
         "hidden.border": null,
         "hint": "#475569",
